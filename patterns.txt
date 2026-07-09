@@ -1,0 +1,18 @@
+| Pattern                | Frequency |
+| ---------------------- | --------- |
+| Dependency Injection   | ⭐⭐⭐⭐⭐     |
+| Repository             | ⭐⭐⭐⭐⭐     |
+| Strategy               | ⭐⭐⭐⭐⭐     |
+| Factory                | ⭐⭐⭐⭐⭐     |
+| Functional Options     | ⭐⭐⭐⭐⭐     |
+| Middleware (Decorator) | ⭐⭐⭐⭐⭐     |
+| Worker Pool            | ⭐⭐⭐⭐⭐     |
+| Pipeline               | ⭐⭐⭐⭐⭐     |
+| Fan-Out / Fan-In       | ⭐⭐⭐⭐⭐     |
+| Context Propagation    | ⭐⭐⭐⭐⭐     |
+| Observer (Pub/Sub)     | ⭐⭐⭐⭐☆     |
+| Adapter                | ⭐⭐⭐⭐☆     |
+| Singleton              | ⭐⭐⭐☆☆     |
+| Command                | ⭐⭐⭐☆☆     |
+| State                  | ⭐⭐⭐☆☆     |
+| Builder                | ⭐⭐☆☆☆     |
