@@ -13,6 +13,6 @@
 | Observer (Pub/Sub)     | ⭐⭐⭐⭐☆     |
 | Adapter                | ⭐⭐⭐⭐☆     |
 | Singleton              | ⭐⭐⭐☆☆     |
-| Command                | ⭐⭐⭐☆☆     |
+| Command                | ⭐⭐⭐☆☆     | --> same as strategy design pattern. difference ? --> [strategy design -> have many options but you choose one] | [command design -> you many commands(in a queue) and execute them one by one]
 | State                  | ⭐⭐⭐☆☆     |
 | Builder                | ⭐⭐☆☆☆     |
